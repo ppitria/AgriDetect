@@ -1,2 +1,4 @@
 # AgriDetect
-Deteksi hama dan penyakit pada tanaman cabai rawit
+Jaga Kesehatan Cabai Rawitmu dengan Deteksi Dini!
+
+Link Promosi:
